@@ -10,14 +10,14 @@ Many of those are part of the [CommonRoad](https://commonroad.in.tum.de/) platfo
 
 Here are a few selected highlights:
 
-- [CommonRoad-Reach](https://github.com/CommonRoad/commonroad-reachable-set): Software to compute the reachable set of an AV in dynamic scenarios, and generate collision-free driving corridors which are used as safety constraints for planning.
 - [CommonRoad Reactive Planner](https://github.com/CommonRoad/commonroad-reactive-planner): A sampling-based motion planner for autonomous vehicles using quintic polynomials in the Frenet frame.
+- [CommonRoad-Reach](https://github.com/CommonRoad/commonroad-reachable-set): Software to compute the reachable set of an AV in dynamic scenarios, and generate collision-free driving corridors which are used as safety constraints for planning.
 - [ComonRoad-CLCS](https://github.com/CommonRoad/commonroad-clcs): Software to construct curvilinear coordinate systems (aka Frenet frames), and perform efficient coordinate transformations.
-- [CommonRoad-Autoware Interface (CR2AW)](https://github.com/CommonRoad/commonroad-autoware-interface): An interface for deploying CommonRoad motion planners in the Autoware software stack for rapid sim-to-real transfer of planners. Winning project of the Autoware challenge 2024.
+- [CommonRoad-Autoware Interface (CR2AW)](https://github.com/CommonRoad/commonroad-autoware-interface): An interface for deploying CommonRoad motion planners in the Autoware software stack enabling rapid sim-to-real transfer. ⭐ _Winning project of the Autoware challenge 2024_ ⭐
 - [CommonRoad Vehicle Models](https://gitlab.lrz.de/tum-cps/commonroad-vehicle-models): Collection of vehicle models of different simulation fidelities commonly used in motion planning and control.
-- [No more traffic tickets](https://github.com/CommonRoad/no-more-traffic-tickets): Software for a [framework](https://ieeexplore.ieee.org/abstract/document/11030935) for guaranteeing rule-compliance and safety for AV motion planning.
-- [Frenetix](https://github.com/TUM-AVS/Frenetix-Motion-Planner): An efficient and parallelized version of the sampling-based planner using quintic polynomials.
-- [CommonRoad Drivability Checker](https://github.com/CommonRoad/commonroad-drivability-checker): A toolbox containing useful methods for efficient collision detection and road compliance checking for motion planning.
+- [No more traffic tickets](https://github.com/CommonRoad/no-more-traffic-tickets): Software for a [framework](https://ieeexplore.ieee.org/abstract/document/11030935) to guarantee traffic rule-compliance and safety for AV motion planning.
+- [Frenetix](https://github.com/TUM-AVS/Frenetix-Motion-Planner): An efficient and parallelized version of a sampling-based motion planner using quintic polynomials.
+- [CommonRoad Drivability Checker](https://github.com/CommonRoad/commonroad-drivability-checker): A toolbox unifying useful methods for efficient collision detection and road compliance checking for motion planning.
 
 
 ## 📫 Let's connect
