@@ -7,6 +7,7 @@ Below, you can find more about myself and projects I have worked on.
 ## 💻 Projects
 I have initiated and contributed to various open-source projects related to autonomous driving, motion planning and vehicle dynamics.
 Many of those are part of the [CommonRoad](https://commonroad.in.tum.de/) platform and have resulted from my research work.
+
 Here are a few selected highlights:
 
 - [CommonRoad-Reach](https://github.com/CommonRoad/commonroad-reachable-set): Software to compute the reachable set of an AV in dynamic scenarios, and generate collision-free driving corridors which are used as safety constraints for planning.
