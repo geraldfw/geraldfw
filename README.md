@@ -24,7 +24,7 @@ Here are a few selected highlights:
 
 I am always happy to connect. Feel free to reach out to me via
 
-[LinkedIn](https://www.linkedin.com/in/gerald-w%C3%BCrsching-01850b179/)  |  [EMail](wuersching.g@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gerald-w%C3%BCrsching-01850b179/)
 
 
 <!--
