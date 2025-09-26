@@ -12,7 +12,7 @@ Here are a few selected highlights:
 
 - [CommonRoad Reactive Planner](https://github.com/CommonRoad/commonroad-reactive-planner): A sampling-based motion planner for autonomous vehicles using quintic polynomials in the Frenet frame.
 - [CommonRoad-Reach](https://github.com/CommonRoad/commonroad-reachable-set): Software to compute the reachable set of an AV in dynamic scenarios, and generate collision-free driving corridors which are used as safety constraints for planning.
-- [ComonRoad-CLCS](https://github.com/CommonRoad/commonroad-clcs): Software to construct curvilinear coordinate systems (aka Frenet frames), and perform efficient coordinate transformations.
+- [CommonRoad-CLCS](https://github.com/CommonRoad/commonroad-clcs): Software to construct curvilinear coordinate systems (aka Frenet frames) along reference paths, and perform efficient coordinate transformations.
 - [CommonRoad-Autoware Interface (CR2AW)](https://github.com/CommonRoad/commonroad-autoware-interface): An interface for deploying CommonRoad motion planners in the Autoware software stack enabling rapid sim-to-real transfer. ⭐ _Winning project of the Autoware challenge 2024_ ⭐
 - [CommonRoad Vehicle Models](https://gitlab.lrz.de/tum-cps/commonroad-vehicle-models): Collection of vehicle models of different simulation fidelities commonly used in motion planning and control.
 - [No more traffic tickets](https://github.com/CommonRoad/no-more-traffic-tickets): Software for a [framework](https://ieeexplore.ieee.org/abstract/document/11030935) to guarantee traffic rule-compliance and safety for AV motion planning.
